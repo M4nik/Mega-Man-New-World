@@ -1,0 +1,3021 @@
+fileFormatVersion: 2
+guid: 92205157aa4fae44b8ad7c3f58559216
+timeCreated: 1462461852
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ZeroX3_0
+    21300002: ZeroX3_1
+    21300004: ZeroX3_2
+    21300006: ZeroX3_3
+    21300008: ZeroX3_4
+    21300010: ZeroX3_5
+    21300012: ZeroX3_6
+    21300014: ZeroX3_7
+    21300016: ZeroX3_8
+    21300018: ZeroX3_9
+    21300020: ZeroX3_10
+    21300022: ZeroX3_11
+    21300024: ZeroX3_12
+    21300026: ZeroX3_13
+    21300028: ZeroX3_14
+    21300030: ZeroX3_15
+    21300032: ZeroX3_16
+    21300034: ZeroX3_17
+    21300036: ZeroX3_18
+    21300038: ZeroX3_19
+    21300040: ZeroX3_20
+    21300042: ZeroX3_21
+    21300044: ZeroX3_22
+    21300046: ZeroX3_23
+    21300048: ZeroX3_24
+    21300050: ZeroX3_25
+    21300052: ZeroX3_26
+    21300054: ZeroX3_27
+    21300056: ZeroX3_28
+    21300058: ZeroX3_29
+    21300060: ZeroX3_30
+    21300062: ZeroX3_31
+    21300064: ZeroX3_32
+    21300066: ZeroX3_33
+    21300068: ZeroX3_34
+    21300070: ZeroX3_35
+    21300072: ZeroX3_36
+    21300074: ZeroX3_37
+    21300076: ZeroX3_38
+    21300078: ZeroX3_39
+    21300080: ZeroX3_40
+    21300082: ZeroX3_41
+    21300084: ZeroX3_42
+    21300086: ZeroX3_43
+    21300088: ZeroX3_44
+    21300090: ZeroX3_45
+    21300092: ZeroX3_46
+    21300094: ZeroX3_47
+    21300096: ZeroX3_48
+    21300098: ZeroX3_49
+    21300100: ZeroX3_50
+    21300102: ZeroX3_51
+    21300104: ZeroX3_52
+    21300106: ZeroX3_53
+    21300108: ZeroX3_54
+    21300110: ZeroX3_55
+    21300112: ZeroX3_56
+    21300114: ZeroX3_57
+    21300116: ZeroX3_58
+    21300118: ZeroX3_59
+    21300120: ZeroX3_60
+    21300122: ZeroX3_61
+    21300124: ZeroX3_62
+    21300126: ZeroX3_63
+    21300128: ZeroX3_64
+    21300130: ZeroX3_65
+    21300132: ZeroX3_66
+    21300134: ZeroX3_67
+    21300136: ZeroX3_68
+    21300138: ZeroX3_69
+    21300140: ZeroX3_70
+    21300142: ZeroX3_71
+    21300144: ZeroX3_72
+    21300146: ZeroX3_73
+    21300148: ZeroX3_74
+    21300150: ZeroX3_75
+    21300152: ZeroX3_76
+    21300154: ZeroX3_77
+    21300156: ZeroX3_78
+    21300158: ZeroX3_79
+    21300160: ZeroX3_80
+    21300162: ZeroX3_81
+    21300164: ZeroX3_82
+    21300166: ZeroX3_83
+    21300168: ZeroX3_84
+    21300170: ZeroX3_85
+    21300172: ZeroX3_86
+    21300174: ZeroX3_87
+    21300176: ZeroX3_88
+    21300178: ZeroX3_89
+    21300180: ZeroX3_90
+    21300182: ZeroX3_91
+    21300184: ZeroX3_92
+    21300186: ZeroX3_93
+    21300188: ZeroX3_94
+    21300190: ZeroX3_95
+    21300192: ZeroX3_96
+    21300194: ZeroX3_97
+    21300196: ZeroX3_98
+    21300198: ZeroX3_99
+    21300200: ZeroX3_100
+    21300202: ZeroX3_101
+    21300204: ZeroX3_102
+    21300206: ZeroX3_103
+    21300208: ZeroX3_104
+    21300210: ZeroX3_105
+    21300212: ZeroX3_106
+    21300214: ZeroX3_107
+    21300216: ZeroX3_108
+    21300218: ZeroX3_109
+    21300220: ZeroX3_110
+    21300222: ZeroX3_111
+    21300224: ZeroX3_112
+    21300226: ZeroX3_113
+    21300228: ZeroX3_114
+    21300230: ZeroX3_115
+    21300232: ZeroX3_116
+    21300234: ZeroX3_117
+    21300236: ZeroX3_118
+    21300238: ZeroX3_119
+    21300240: ZeroX3_120
+    21300242: ZeroX3_121
+    21300244: ZeroX3_122
+    21300246: ZeroX3_123
+    21300248: ZeroX3_124
+    21300250: ZeroX3_125
+    21300252: ZeroX3_126
+    21300254: ZeroX3_127
+    21300256: ZeroX3_128
+    21300258: ZeroX3_129
+    21300260: ZeroX3_130
+    21300262: ZeroX3_131
+    21300264: ZeroX3_132
+    21300266: ZeroX3_133
+    21300268: ZeroX3_134
+    21300270: ZeroX3_135
+    21300272: ZeroX3_136
+    21300274: ZeroX3_137
+    21300276: ZeroX3_138
+    21300278: ZeroX3_139
+    21300280: ZeroX3_140
+    21300282: ZeroX3_141
+    21300284: ZeroX3_142
+    21300286: ZeroX3_143
+    21300288: ZeroX3_144
+    21300290: ZeroX3_145
+    21300292: ZeroX3_146
+    21300294: ZeroX3_147
+    21300296: ZeroX3_148
+    21300298: ZeroX3_149
+    21300300: ZeroX3_150
+    21300302: ZeroX3_151
+    21300304: ZeroX3_152
+    21300306: ZeroX3_153
+    21300308: ZeroX3_154
+    21300310: ZeroX3_155
+    21300312: ZeroX3_156
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 8
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ZeroX3_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1418
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 22}
+        - {x: -14, y: 22}
+        - {x: -19, y: 8}
+        - {x: -19, y: -22}
+        - {x: 19, y: -22}
+        - {x: 19, y: -5}
+    - name: ZeroX3_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1418
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 22}
+        - {x: -14, y: 22}
+        - {x: -19, y: 8}
+        - {x: -19, y: -22}
+        - {x: 19, y: -22}
+        - {x: 19, y: -5}
+    - name: ZeroX3_2
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1352
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 26}
+        - {x: -20, y: 18}
+        - {x: -20, y: -2}
+        - {x: -17, y: -1}
+        - {x: -14, y: -3}
+        - {x: -6, y: -21}
+        - {x: -1, y: -26}
+        - {x: 14, y: -26}
+        - {x: 20, y: -20}
+        - {x: 20, y: 24}
+        - {x: 18, y: 26}
+    - name: ZeroX3_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1352
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 26}
+        - {x: -19, y: 19}
+        - {x: -19, y: -9}
+        - {x: -12, y: -26}
+        - {x: 4, y: -26}
+        - {x: 19, y: -16}
+        - {x: 19, y: 19}
+        - {x: 16, y: 26}
+    - name: ZeroX3_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1353
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 25.5}
+        - {x: -15.5, y: 23.5}
+        - {x: -18.5, y: 16.5}
+        - {x: -18.5, y: -17.5}
+        - {x: -15.5, y: -17.5}
+        - {x: -12.5, y: -16.5}
+        - {x: -12.5, y: -13.5}
+        - {x: -12.5, y: -25.5}
+        - {x: 18.5, y: -25.5}
+        - {x: 18.5, y: 13.5}
+        - {x: 10.5, y: 25.5}
+    - name: ZeroX3_5
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1352
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 25.5}
+        - {x: -13, y: 25.5}
+        - {x: -17, y: 19.5}
+        - {x: -17, y: -18.5}
+        - {x: -11, y: -25.5}
+        - {x: 0, y: -25.5}
+        - {x: 14, y: -20.5}
+        - {x: 17, y: -9.5}
+        - {x: 17, y: 15.5}
+    - name: ZeroX3_6
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1350
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 26}
+        - {x: -3.5, y: 26}
+        - {x: -16.5, y: 21}
+        - {x: -19.5, y: 16}
+        - {x: -19.5, y: 1}
+        - {x: -14.5, y: -8}
+        - {x: -11.5, y: -9}
+        - {x: -12.5, y: -14}
+        - {x: -11.5, y: -18}
+        - {x: -9.5, y: -23}
+        - {x: -6.5, y: -26}
+        - {x: 6.5, y: -26}
+        - {x: 13.5, y: -22}
+        - {x: 19.5, y: -2}
+        - {x: 19.5, y: 14}
+    - name: ZeroX3_7
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1350
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 19}
+        - {x: -1, y: 33}
+        - {x: -14, y: 33}
+        - {x: -18, y: 30}
+        - {x: -18, y: 10}
+        - {x: -12, y: 2}
+        - {x: -8, y: -26}
+        - {x: -1, y: -33}
+        - {x: 10, y: -33}
+        - {x: 17, y: -28}
+        - {x: 18, y: -22}
+        - {x: 18, y: 18}
+    - name: ZeroX3_8
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1349
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 33.5}
+        - {x: -17, y: 28.5}
+        - {x: -17, y: -13.5}
+        - {x: -10, y: -33.5}
+        - {x: 8, y: -33.5}
+        - {x: 15, y: -28.5}
+        - {x: 17, y: -18.5}
+        - {x: 17, y: 21.5}
+        - {x: 2, y: 33.5}
+    - name: ZeroX3_9
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1353
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 25.5}
+        - {x: -17, y: -25.5}
+        - {x: 4, y: -25.5}
+        - {x: 17, y: -12.5}
+        - {x: 17, y: 25.5}
+    - name: ZeroX3_10
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1357
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 21}
+        - {x: -19, y: 20}
+        - {x: -19, y: -21}
+        - {x: 19, y: -21}
+        - {x: 19, y: 12}
+        - {x: 13, y: 21}
+    - name: ZeroX3_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1269
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 26}
+        - {x: -22, y: 22}
+        - {x: -25, y: 16}
+        - {x: -25, y: 1}
+        - {x: -20, y: -8}
+        - {x: -17, y: -9}
+        - {x: -18, y: -14}
+        - {x: -17, y: -25}
+        - {x: -16, y: -26}
+        - {x: 10, y: -26}
+        - {x: 25, y: -11}
+        - {x: 25, y: 14}
+        - {x: 8, y: 26}
+    - name: ZeroX3_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1269
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 33}
+        - {x: -22.5, y: 33}
+        - {x: -26.5, y: 30}
+        - {x: -26.5, y: 10}
+        - {x: -20.5, y: 2}
+        - {x: -16.5, y: -26}
+        - {x: -9.5, y: -33}
+        - {x: 0.5, y: -33}
+        - {x: 26.5, y: -5}
+        - {x: 26.5, y: 8}
+    - name: ZeroX3_13
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1269
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 33.5}
+        - {x: -19.5, y: 33.5}
+        - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -8.5}
+        - {x: -20.5, y: -27.5}
+        - {x: -11.5, y: -33.5}
+        - {x: 5.5, y: -33.5}
+        - {x: 25.5, y: -13.5}
+        - {x: 25.5, y: 7.5}
+        - {x: 12.5, y: 22.5}
+    - name: ZeroX3_14
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1269
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 25.5}
+        - {x: -26.5, y: -25.5}
+        - {x: 0.5, y: -25.5}
+        - {x: 26.5, y: -6.5}
+        - {x: 26.5, y: 17.5}
+        - {x: 11.5, y: 25.5}
+    - name: ZeroX3_15
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1271
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 22}
+        - {x: -23, y: 8}
+        - {x: -23, y: -22}
+        - {x: 23, y: -22}
+        - {x: 23, y: 11}
+        - {x: 8, y: 22}
+    - name: ZeroX3_16
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1269
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 22}
+        - {x: -20, y: 15}
+        - {x: -22, y: 5}
+        - {x: -22, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 14}
+        - {x: 7, y: 22}
+    - name: ZeroX3_17
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1269
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 22}
+        - {x: -14, y: 22}
+        - {x: -19, y: 8}
+        - {x: -19, y: -22}
+        - {x: 19, y: -22}
+        - {x: 19, y: -5}
+    - name: ZeroX3_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1207
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 8}
+        - {x: 2, y: 22}
+        - {x: -16, y: 22}
+        - {x: -27, y: 7}
+        - {x: -27, y: -22}
+        - {x: 15, y: -22}
+        - {x: 27, y: -5}
+    - name: ZeroX3_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1207
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 22}
+        - {x: -20, y: 15}
+        - {x: -22, y: 5}
+        - {x: -22, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 14}
+        - {x: 7, y: 22}
+    - name: ZeroX3_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1207
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 22}
+        - {x: -14, y: 22}
+        - {x: -19, y: 8}
+        - {x: -19, y: -22}
+        - {x: 19, y: -22}
+        - {x: 19, y: -5}
+    - name: ZeroX3_21
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1245
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1143
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 20.5}
+        - {x: -18.5, y: 5.5}
+        - {x: -18.5, y: -20.5}
+        - {x: 18.5, y: -20.5}
+        - {x: 18.5, y: 14.5}
+        - {x: 13.5, y: 20.5}
+    - name: ZeroX3_23
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1143
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 21.5}
+        - {x: -18.5, y: 1.5}
+        - {x: -18.5, y: -21.5}
+        - {x: 18.5, y: -21.5}
+        - {x: 18.5, y: 12.5}
+        - {x: 14.5, y: 21.5}
+    - name: ZeroX3_24
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1142
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 22.5}
+        - {x: -18.5, y: -1.5}
+        - {x: -18.5, y: -22.5}
+        - {x: 18.5, y: -22.5}
+        - {x: 18.5, y: 13.5}
+        - {x: 14.5, y: 22.5}
+    - name: ZeroX3_25
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1143
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 23.5}
+        - {x: -18.5, y: 1.5}
+        - {x: -18.5, y: -23.5}
+        - {x: 18.5, y: -23.5}
+        - {x: 18.5, y: 17.5}
+        - {x: 15.5, y: 23.5}
+    - name: ZeroX3_26
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1143
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 24.5}
+        - {x: -7.5, y: 21.5}
+        - {x: -18.5, y: 3.5}
+        - {x: -18.5, y: -24.5}
+        - {x: 18.5, y: -24.5}
+        - {x: 18.5, y: 21.5}
+        - {x: 14.5, y: 24.5}
+    - name: ZeroX3_27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1143
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_28
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1139
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1010
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 22}
+        - {x: -20, y: 7}
+        - {x: -23, y: 2}
+        - {x: -23, y: -21}
+        - {x: -19, y: -22}
+        - {x: 23, y: -22}
+        - {x: 23, y: 5}
+        - {x: 18, y: 22}
+    - name: ZeroX3_30
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1010
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 22}
+        - {x: -15, y: 19}
+        - {x: -21, y: 13}
+        - {x: -21, y: -3}
+        - {x: -8, y: -22}
+        - {x: 17, y: -22}
+        - {x: 21, y: -6}
+        - {x: 21, y: 18}
+        - {x: 19, y: 22}
+    - name: ZeroX3_31
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1010
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 22.5}
+        - {x: -19, y: 18.5}
+        - {x: -20, y: 13.5}
+        - {x: -20, y: 4.5}
+        - {x: -14, y: -2.5}
+        - {x: -11, y: -5.5}
+        - {x: -6, y: -5.5}
+        - {x: -7, y: -15.5}
+        - {x: -7, y: -19.5}
+        - {x: -4, y: -22.5}
+        - {x: 16, y: -22.5}
+        - {x: 20, y: -9.5}
+        - {x: 20, y: 22.5}
+    - name: ZeroX3_32
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1009
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 22}
+        - {x: -21, y: 14}
+        - {x: -21, y: -22}
+        - {x: 17, y: -22}
+        - {x: 21, y: -19}
+        - {x: 21, y: 10}
+        - {x: 16, y: 22}
+    - name: ZeroX3_33
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1010
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: -21.5}
+        - {x: 20.5, y: 18.5}
+        - {x: 19.5, y: 21.5}
+        - {x: -1.5, y: 21.5}
+        - {x: -20.5, y: 5.5}
+        - {x: -20.5, y: -21.5}
+    - name: ZeroX3_34
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1010
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 21.5}
+        - {x: -16, y: 5.5}
+        - {x: -16, y: 3.5}
+        - {x: -21, y: 3.5}
+        - {x: -21, y: -9.5}
+        - {x: -11, y: -16.5}
+        - {x: 3, y: -21.5}
+        - {x: 21, y: -21.5}
+        - {x: 21, y: 21.5}
+    - name: ZeroX3_35
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1009
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 22}
+        - {x: -20.5, y: 13}
+        - {x: -20.5, y: -7}
+        - {x: -8.5, y: -22}
+        - {x: 19.5, y: -22}
+        - {x: 20.5, y: -19}
+        - {x: 20.5, y: 22}
+    - name: ZeroX3_36
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1008
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 22.5}
+        - {x: -18.5, y: 19.5}
+        - {x: -20.5, y: 17.5}
+        - {x: -20.5, y: -15.5}
+        - {x: -18.5, y: -18.5}
+        - {x: -16.5, y: -22.5}
+        - {x: 9.5, y: -22.5}
+        - {x: 20.5, y: -15.5}
+        - {x: 20.5, y: 18.5}
+        - {x: 17.5, y: 22.5}
+    - name: ZeroX3_37
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1004
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 22}
+        - {x: -23.5, y: 20}
+        - {x: -23.5, y: 1}
+        - {x: -20.5, y: -2}
+        - {x: -18.5, y: -2}
+        - {x: -14.5, y: 1}
+        - {x: -13.5, y: 4}
+        - {x: -13.5, y: 0}
+        - {x: -8.5, y: -5}
+        - {x: -5.5, y: -5}
+        - {x: -13.5, y: -5}
+        - {x: -17.5, y: -18}
+        - {x: -12.5, y: -22}
+        - {x: 15.5, y: -22}
+        - {x: 23.5, y: -19}
+        - {x: 23.5, y: 17}
+        - {x: 22.5, y: 22}
+    - name: ZeroX3_38
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 958
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 23}
+        - {x: -17.5, y: 23}
+        - {x: -17.5, y: 18}
+        - {x: -17.5, y: 23}
+        - {x: -23.5, y: 23}
+        - {x: -23.5, y: -9}
+        - {x: -2.5, y: -23}
+        - {x: 14.5, y: -23}
+        - {x: 21.5, y: -18}
+        - {x: 23.5, y: -9}
+        - {x: 23.5, y: 16}
+    - name: ZeroX3_39
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 958
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 21.5}
+        - {x: -23, y: 17.5}
+        - {x: -23, y: -3.5}
+        - {x: -19, y: -15.5}
+        - {x: -7, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 8.5}
+        - {x: 18, y: 21.5}
+    - name: ZeroX3_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 885
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -24.5}
+        - {x: 19, y: -24.5}
+        - {x: 19, y: -4.5}
+        - {x: 16, y: 15.5}
+        - {x: 6, y: 21.5}
+        - {x: -12, y: 21.5}
+        - {x: -19, y: 16.5}
+      - - {x: 0, y: 24.5}
+        - {x: 0, y: 22.5}
+        - {x: 2, y: 20.5}
+        - {x: 4, y: 20.5}
+        - {x: 6, y: 22.5}
+        - {x: 6, y: 24.5}
+    - name: ZeroX3_41
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 885
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -15}
+        - {x: 9, y: 24}
+        - {x: -5, y: 24}
+        - {x: -23, y: 9}
+        - {x: -23, y: -24}
+        - {x: -6, y: -24}
+        - {x: -5, y: -23}
+        - {x: -2, y: -24}
+        - {x: 18, y: -24}
+      - - {x: 19, y: 3}
+        - {x: 19, y: 1}
+        - {x: 21, y: -1}
+        - {x: 23, y: -1}
+        - {x: 23, y: 5}
+        - {x: 21, y: 5}
+    - name: ZeroX3_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 885
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 10.5}
+        - {x: -21.5, y: -22.5}
+        - {x: 18.5, y: -22.5}
+        - {x: 18.5, y: -13.5}
+        - {x: 6.5, y: 22.5}
+        - {x: -9.5, y: 22.5}
+        - {x: -12.5, y: 20.5}
+      - - {x: 17.5, y: 4.5}
+        - {x: 17.5, y: 2.5}
+        - {x: 19.5, y: 0.5}
+        - {x: 21.5, y: 0.5}
+        - {x: 21.5, y: 6.5}
+        - {x: 19.5, y: 6.5}
+      - - {x: 15.5, y: 22.5}
+        - {x: 13.5, y: 20.5}
+        - {x: 13.5, y: 18.5}
+        - {x: 15.5, y: 16.5}
+        - {x: 17.5, y: 16.5}
+        - {x: 19.5, y: 18.5}
+        - {x: 19.5, y: 20.5}
+        - {x: 17.5, y: 22.5}
+    - name: ZeroX3_43
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 885
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -22}
+        - {x: 20, y: -22}
+        - {x: 20, y: -14}
+        - {x: 7, y: 22}
+        - {x: -18, y: 22}
+        - {x: -20, y: 13}
+      - - {x: 15, y: -9}
+        - {x: 15, y: -14}
+        - {x: 17, y: -15}
+        - {x: 20, y: -15}
+        - {x: 20, y: -9}
+      - - {x: 17, y: 4}
+        - {x: 19, y: 2}
+        - {x: 20, y: 2}
+        - {x: 20, y: 7}
+        - {x: 18, y: 7}
+      - - {x: 15, y: 21}
+        - {x: 13, y: 19}
+        - {x: 13, y: 17}
+        - {x: 15, y: 15}
+        - {x: 17, y: 15}
+        - {x: 19, y: 17}
+        - {x: 19, y: 19}
+        - {x: 17, y: 21}
+    - name: ZeroX3_44
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 884
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 22.5}
+        - {x: -19, y: 22.5}
+        - {x: -19, y: -23.5}
+        - {x: 19, y: -23.5}
+        - {x: 19, y: 0.5}
+        - {x: 18, y: 5.5}
+      - - {x: 14, y: -12.5}
+        - {x: 15, y: -14.5}
+        - {x: 19, y: -14.5}
+        - {x: 19, y: -8.5}
+        - {x: 16, y: -8.5}
+        - {x: 14, y: -9.5}
+      - - {x: 16, y: 2.5}
+        - {x: 18, y: 0.5}
+        - {x: 19, y: 0.5}
+        - {x: 19, y: 5.5}
+        - {x: 17, y: 5.5}
+      - - {x: 14, y: 11.5}
+        - {x: 17, y: 12.5}
+        - {x: 17, y: 15.5}
+        - {x: 14, y: 16.5}
+        - {x: 12, y: 14.5}
+      - - {x: 8, y: 23.5}
+        - {x: 8, y: 21.5}
+        - {x: 10, y: 19.5}
+        - {x: 12, y: 19.5}
+        - {x: 14, y: 21.5}
+        - {x: 14, y: 23.5}
+    - name: ZeroX3_45
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 885
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -22.5}
+        - {x: 18.5, y: -22.5}
+        - {x: 18.5, y: -11.5}
+        - {x: 15.5, y: 7.5}
+        - {x: 0.5, y: 22.5}
+        - {x: -16.5, y: 22.5}
+        - {x: -21.5, y: 18.5}
+      - - {x: 17.5, y: -3.5}
+        - {x: 17.5, y: -5.5}
+        - {x: 19.5, y: -7.5}
+        - {x: 21.5, y: -7.5}
+        - {x: 21.5, y: -1.5}
+        - {x: 19.5, y: -1.5}
+      - - {x: 9.5, y: 10.5}
+        - {x: 12.5, y: 11.5}
+        - {x: 12.5, y: 14.5}
+        - {x: 9.5, y: 15.5}
+        - {x: 7.5, y: 13.5}
+      - - {x: 4.5, y: 22.5}
+        - {x: 4.5, y: 20.5}
+        - {x: 6.5, y: 18.5}
+        - {x: 8.5, y: 18.5}
+        - {x: 10.5, y: 20.5}
+        - {x: 10.5, y: 22.5}
+    - name: ZeroX3_46
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 886
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -23.5}
+        - {x: 19.5, y: -23.5}
+        - {x: 19.5, y: -13.5}
+        - {x: 7.5, y: 23.5}
+        - {x: -16.5, y: 23.5}
+        - {x: -20.5, y: 11.5}
+      - - {x: 16.5, y: -3.5}
+        - {x: 16.5, y: -5.5}
+        - {x: 18.5, y: -7.5}
+        - {x: 20.5, y: -7.5}
+        - {x: 20.5, y: -1.5}
+        - {x: 18.5, y: -1.5}
+      - - {x: 6.5, y: 15.5}
+        - {x: 9.5, y: 16.5}
+        - {x: 9.5, y: 19.5}
+        - {x: 6.5, y: 20.5}
+        - {x: 4.5, y: 18.5}
+    - name: ZeroX3_47
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 825
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 22}
+        - {x: -21.5, y: 22}
+        - {x: -30.5, y: 8}
+        - {x: -30.5, y: -22}
+        - {x: 20.5, y: -22}
+        - {x: 27.5, y: -15}
+        - {x: 30.5, y: -8}
+        - {x: 30.5, y: 10}
+    - name: ZeroX3_48
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 825
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: 5}
+        - {x: 33.5, y: 7}
+        - {x: -0.5, y: 22}
+        - {x: -23.5, y: 22}
+        - {x: -34.5, y: 7}
+        - {x: -34.5, y: -22}
+        - {x: 4.5, y: -22}
+        - {x: 4.5, y: -20}
+        - {x: 34.5, y: -5}
+    - name: ZeroX3_49
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 825
+        width: 85
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: 9}
+        - {x: -0.5, y: 22}
+        - {x: -34.5, y: 22}
+        - {x: -40.5, y: 15}
+        - {x: -42.5, y: 5}
+        - {x: -42.5, y: -22}
+        - {x: 1.5, y: -22}
+        - {x: 42.5, y: -5}
+        - {x: 42.5, y: 6}
+    - name: ZeroX3_50
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 838
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_51
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 834
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_52
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 837
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_53
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 769
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -11}
+        - {x: 24, y: -15}
+        - {x: 28, y: -7}
+        - {x: 28, y: 13}
+        - {x: 14, y: 22}
+        - {x: -16, y: 22}
+        - {x: -28, y: 15}
+        - {x: -28, y: -22}
+        - {x: 11, y: -22}
+        - {x: 11, y: -20}
+        - {x: 7, y: -9}
+    - name: ZeroX3_54
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 769
+        width: 65
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 22}
+        - {x: -22.5, y: 22}
+        - {x: -29.5, y: 14}
+        - {x: -32.5, y: -2}
+        - {x: -32.5, y: -22}
+        - {x: 10.5, y: -22}
+        - {x: 32.5, y: -6}
+        - {x: 32.5, y: 9}
+        - {x: 30.5, y: 16}
+    - name: ZeroX3_55
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 769
+        width: 65
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 22}
+        - {x: -32.5, y: 8}
+        - {x: -32.5, y: -22}
+        - {x: 26.5, y: -22}
+        - {x: 32.5, y: -20}
+        - {x: 32.5, y: 10}
+        - {x: 28.5, y: 22}
+    - name: ZeroX3_56
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 769
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 20}
+        - {x: 3.5, y: 22}
+        - {x: -24.5, y: 22}
+        - {x: -34.5, y: 14}
+        - {x: -36.5, y: 5}
+        - {x: -36.5, y: -22}
+        - {x: 17.5, y: -22}
+        - {x: 36.5, y: -10}
+        - {x: 36.5, y: 12}
+        - {x: 34.5, y: 17}
+    - name: ZeroX3_57
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 769
+        width: 81
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: 18}
+        - {x: 32.5, y: 22}
+        - {x: -40.5, y: 22}
+        - {x: -40.5, y: -22}
+        - {x: 33.5, y: -22}
+        - {x: 40.5, y: -14}
+        - {x: 40.5, y: 13}
+    - name: ZeroX3_58
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 781
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_59
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 779
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_60
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 778
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_61
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 776
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_62
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 733
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_63
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 727
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_64
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 733
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_65
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 727
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_66
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 671
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 22.5}
+        - {x: -17, y: 19.5}
+        - {x: -19, y: 16.5}
+        - {x: -19, y: -22.5}
+        - {x: 19, y: -22.5}
+        - {x: 19, y: 2.5}
+        - {x: 3, y: 22.5}
+      - - {x: 13, y: 10.5}
+        - {x: 16, y: 11.5}
+        - {x: 16, y: 14.5}
+        - {x: 13, y: 15.5}
+        - {x: 11, y: 13.5}
+      - - {x: 7, y: 22.5}
+        - {x: 7, y: 19.5}
+        - {x: 9, y: 17.5}
+        - {x: 12, y: 17.5}
+        - {x: 14, y: 19.5}
+        - {x: 14, y: 22.5}
+    - name: ZeroX3_67
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 671
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 24.5}
+        - {x: -10, y: 24.5}
+        - {x: -19, y: 12.5}
+        - {x: -19, y: -24.5}
+        - {x: 19, y: -24.5}
+        - {x: 19, y: 1.5}
+        - {x: 18, y: 5.5}
+      - - {x: 5, y: 20.5}
+        - {x: 5, y: 13.5}
+        - {x: 12, y: 13.5}
+        - {x: 12, y: 20.5}
+    - name: ZeroX3_68
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 674
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: -23}
+        - {x: 19.5, y: -23}
+        - {x: 19.5, y: -15}
+        - {x: 10.5, y: 18}
+        - {x: 7.5, y: 23}
+        - {x: -13.5, y: 23}
+        - {x: -19.5, y: 21}
+      - - {x: 14.5, y: -2}
+        - {x: 14.5, y: -5}
+        - {x: 16.5, y: -7}
+        - {x: 19.5, y: -7}
+        - {x: 19.5, y: 0}
+        - {x: 16.5, y: 0}
+    - name: ZeroX3_69
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 706
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_70
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 673
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 22}
+        - {x: -19, y: 15}
+        - {x: -19, y: -22}
+        - {x: 19, y: -22}
+        - {x: 19, y: 11}
+        - {x: 6, y: 22}
+    - name: ZeroX3_71
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 704
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 672
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 22}
+        - {x: -16.5, y: 18}
+        - {x: -18.5, y: -6}
+        - {x: -18.5, y: -22}
+        - {x: 18.5, y: -22}
+        - {x: 18.5, y: 17}
+        - {x: 9.5, y: 22}
+    - name: ZeroX3_73
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 672
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 22}
+        - {x: -15.5, y: 18}
+        - {x: -18.5, y: -6}
+        - {x: -18.5, y: -22}
+        - {x: 18.5, y: -22}
+        - {x: 18.5, y: 5}
+        - {x: 6.5, y: 22}
+    - name: ZeroX3_74
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 671
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 21}
+        - {x: -24.5, y: 16}
+        - {x: -24.5, y: 8}
+        - {x: -13.5, y: 2}
+        - {x: -8.5, y: 2}
+        - {x: -18.5, y: 2}
+        - {x: -24.5, y: -1}
+        - {x: -24.5, y: -13}
+        - {x: -23.5, y: -21}
+        - {x: 22.5, y: -21}
+        - {x: 24.5, y: -12}
+        - {x: 24.5, y: 16}
+        - {x: 21.5, y: 21}
+    - name: ZeroX3_75
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 672
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 1}
+        - {x: 36, y: 13}
+        - {x: 29, y: 20}
+        - {x: -36, y: 20}
+        - {x: -36, y: -1}
+        - {x: -35, y: -2}
+        - {x: -29, y: -2}
+        - {x: -36, y: -13}
+        - {x: -36, y: -20}
+        - {x: -21, y: -20}
+        - {x: -18, y: -17}
+        - {x: -17, y: -20}
+        - {x: 8, y: -20}
+    - name: ZeroX3_76
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 687
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_77
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 688
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_78
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 615
+        width: 82
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -20}
+        - {x: 41, y: -12}
+        - {x: 41, y: 20}
+        - {x: -32, y: 20}
+        - {x: -41, y: 13}
+        - {x: -41, y: -1}
+        - {x: -40, y: -2}
+        - {x: -34, y: -2}
+        - {x: -41, y: -13}
+        - {x: -41, y: -20}
+        - {x: -26, y: -20}
+        - {x: -23, y: -17}
+        - {x: -21, y: -12}
+        - {x: -22, y: -20}
+    - name: ZeroX3_79
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 615
+        width: 88
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -20}
+        - {x: -1, y: -20}
+        - {x: 22, y: -12}
+        - {x: 44, y: -3}
+        - {x: 44, y: 11}
+        - {x: 22, y: 18}
+        - {x: 10, y: 20}
+        - {x: -37, y: 20}
+        - {x: -44, y: 15}
+        - {x: -44, y: -1}
+        - {x: -43, y: -2}
+        - {x: -37, y: -2}
+        - {x: -44, y: -13}
+        - {x: -44, y: -20}
+        - {x: -29, y: -20}
+        - {x: -26, y: -17}
+        - {x: -24, y: -12}
+        - {x: -23, y: -19}
+    - name: ZeroX3_80
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 615
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -20}
+        - {x: 22, y: -20}
+        - {x: 24, y: -16}
+        - {x: 24, y: 20}
+        - {x: -22, y: 20}
+        - {x: -24, y: 13}
+        - {x: -24, y: -1}
+        - {x: -23, y: -2}
+        - {x: -17, y: -2}
+        - {x: -24, y: -13}
+        - {x: -24, y: -20}
+        - {x: -9, y: -20}
+        - {x: -6, y: -17}
+        - {x: -4, y: -12}
+        - {x: -3, y: -19}
+    - name: ZeroX3_81
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 615
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -20}
+        - {x: 17, y: -20}
+        - {x: 24, y: -12}
+        - {x: 24, y: 12}
+        - {x: 19, y: 20}
+        - {x: -17, y: 20}
+        - {x: -24, y: 15}
+        - {x: -24, y: -1}
+        - {x: -23, y: -2}
+        - {x: -17, y: -2}
+        - {x: -24, y: -13}
+        - {x: -24, y: -20}
+        - {x: -9, y: -20}
+        - {x: -6, y: -17}
+        - {x: -4, y: -12}
+        - {x: -3, y: -19}
+    - name: ZeroX3_82
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 625
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_83
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 625
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_84
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 625
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_85
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 557
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 21}
+        - {x: -2, y: 21}
+        - {x: -4, y: 20}
+        - {x: -17, y: -4}
+        - {x: -21, y: -14}
+        - {x: -21, y: -21}
+        - {x: 18, y: -21}
+        - {x: 21, y: -5}
+        - {x: 21, y: 13}
+    - name: ZeroX3_86
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 557
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -0.5}
+        - {x: 13.5, y: -0.5}
+        - {x: 19.5, y: 6.5}
+        - {x: 19.5, y: 16.5}
+        - {x: 12.5, y: 22.5}
+        - {x: -3.5, y: 22.5}
+        - {x: -19.5, y: 11.5}
+        - {x: -19.5, y: -21.5}
+        - {x: -18.5, y: -22.5}
+        - {x: 18.5, y: -22.5}
+        - {x: 19.5, y: -21.5}
+        - {x: 19.5, y: -4.5}
+        - {x: 15.5, y: -0.5}
+    - name: ZeroX3_87
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 557
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 22.5}
+        - {x: -19, y: 22.5}
+        - {x: -24, y: 18.5}
+        - {x: -24, y: -7.5}
+        - {x: -23, y: -8.5}
+        - {x: -20, y: -7.5}
+        - {x: -16, y: -10.5}
+        - {x: -23, y: -19.5}
+        - {x: -23, y: -22.5}
+        - {x: 21, y: -22.5}
+        - {x: 24, y: -14.5}
+        - {x: 24, y: 17.5}
+    - name: ZeroX3_88
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 557
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 22.5}
+        - {x: -11, y: 22.5}
+        - {x: -22, y: 20.5}
+        - {x: -24, y: 16.5}
+        - {x: -24, y: -7.5}
+        - {x: -23, y: -8.5}
+        - {x: -20, y: -7.5}
+        - {x: -16, y: -10.5}
+        - {x: -23, y: -19.5}
+        - {x: -23, y: -22.5}
+        - {x: 21, y: -22.5}
+        - {x: 24, y: -14.5}
+        - {x: 24, y: 17.5}
+    - name: ZeroX3_89
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 557
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 19}
+        - {x: -32, y: -19}
+        - {x: 32, y: -19}
+        - {x: 32, y: 19}
+    - name: ZeroX3_90
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 557
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 19}
+        - {x: -25.5, y: 19}
+        - {x: -36.5, y: -2}
+        - {x: -36.5, y: -19}
+        - {x: 4.5, y: -19}
+        - {x: 33.5, y: -7}
+        - {x: 36.5, y: -5}
+        - {x: 36.5, y: 15}
+      - - {x: 31.5, y: -17}
+        - {x: 31.5, y: -19}
+        - {x: 36.5, y: -19}
+        - {x: 36.5, y: -13}
+        - {x: 35.5, y: -13}
+    - name: ZeroX3_91
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 557
+        width: 81
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: 19}
+        - {x: -28.5, y: 19}
+        - {x: -40.5, y: -2}
+        - {x: -40.5, y: -19}
+        - {x: -1.5, y: -19}
+        - {x: -1.5, y: -17}
+        - {x: 32.5, y: -14}
+        - {x: 40.5, y: -9}
+      - - {x: -39.5, y: 9}
+        - {x: -40.5, y: 9}
+        - {x: -40.5, y: -4}
+        - {x: -39.5, y: -4}
+        - {x: -36.5, y: -2}
+        - {x: -35.5, y: 1}
+        - {x: -35.5, y: 4}
+    - name: ZeroX3_92
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 501
+        width: 89
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 19}
+        - {x: 2.5, y: 16}
+        - {x: 3.5, y: 13}
+        - {x: -5.5, y: 19}
+        - {x: -32.5, y: 19}
+        - {x: -44.5, y: 3}
+        - {x: -44.5, y: -19}
+        - {x: 32.5, y: -19}
+        - {x: 44.5, y: -14}
+        - {x: 44.5, y: 17}
+        - {x: 43.5, y: 19}
+    - name: ZeroX3_93
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 512
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_94
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 510
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_95
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 509
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_96
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 507
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_97
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 508
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_98
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 502
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_99
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 508
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_100
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 502
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_101
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 475
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_102
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 476
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_103
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 432
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 22.5}
+        - {x: -19, y: 18.5}
+        - {x: -19, y: -22.5}
+        - {x: 19, y: -22.5}
+        - {x: 19, y: 15.5}
+        - {x: 9, y: 22.5}
+      - - {x: 15, y: 22.5}
+        - {x: 13, y: 20.5}
+        - {x: 13, y: 17.5}
+        - {x: 16, y: 14.5}
+        - {x: 19, y: 14.5}
+        - {x: 19, y: 22.5}
+    - name: ZeroX3_104
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 476
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_105
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 429
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 22}
+        - {x: -14, y: 22}
+        - {x: -19, y: 11}
+        - {x: -19, y: -22}
+        - {x: 19, y: -22}
+        - {x: 19, y: -5}
+    - name: ZeroX3_106
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 432
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: -1}
+        - {x: 18.5, y: 7}
+        - {x: 5.5, y: 22}
+        - {x: -7.5, y: 22}
+        - {x: -9.5, y: 21}
+        - {x: -19.5, y: 14}
+        - {x: -19.5, y: -22}
+        - {x: -2.5, y: -22}
+        - {x: -1.5, y: -21}
+        - {x: 1.5, y: -22}
+        - {x: 19.5, y: -22}
+    - name: ZeroX3_107
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 471
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_108
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 432
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: -1}
+        - {x: 18.5, y: 7}
+        - {x: 5.5, y: 22}
+        - {x: -7.5, y: 22}
+        - {x: -9.5, y: 21}
+        - {x: -19.5, y: 14}
+        - {x: -19.5, y: -22}
+        - {x: -2.5, y: -22}
+        - {x: -1.5, y: -21}
+        - {x: 1.5, y: -22}
+        - {x: 19.5, y: -22}
+    - name: ZeroX3_109
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 7}
+        - {x: -18.5, y: -22}
+        - {x: 18.5, y: -22}
+        - {x: 18.5, y: -7}
+        - {x: 11.5, y: 22}
+        - {x: -9.5, y: 22}
+    - name: ZeroX3_110
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 22}
+        - {x: -16.5, y: 18}
+        - {x: -18.5, y: -6}
+        - {x: -18.5, y: -22}
+        - {x: 18.5, y: -22}
+        - {x: 18.5, y: 17}
+        - {x: 9.5, y: 22}
+    - name: ZeroX3_111
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 432
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 22}
+        - {x: -16.5, y: 18}
+        - {x: -18.5, y: -6}
+        - {x: -18.5, y: -22}
+        - {x: 18.5, y: -22}
+        - {x: 18.5, y: 17}
+        - {x: 9.5, y: 22}
+    - name: ZeroX3_112
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 456
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_113
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 456
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_114
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 456
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_115
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 429
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 21}
+        - {x: -21.5, y: 13}
+        - {x: -21.5, y: 8}
+        - {x: -10.5, y: 2}
+        - {x: -5.5, y: 2}
+        - {x: -15.5, y: 2}
+        - {x: -20.5, y: -2}
+        - {x: -20.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 14}
+        - {x: 18.5, y: 21}
+    - name: ZeroX3_116
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 429
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 21}
+        - {x: -21.5, y: 13}
+        - {x: -21.5, y: 8}
+        - {x: -10.5, y: 2}
+        - {x: -5.5, y: 2}
+        - {x: -15.5, y: 2}
+        - {x: -20.5, y: -2}
+        - {x: -20.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 14}
+        - {x: 18.5, y: 21}
+    - name: ZeroX3_117
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 371
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -20}
+        - {x: 9.5, y: -20}
+        - {x: 9.5, y: -18}
+        - {x: 6.5, y: -7}
+        - {x: 3.5, y: -4}
+        - {x: 13.5, y: -11}
+        - {x: 24.5, y: -12}
+        - {x: 29.5, y: -5}
+        - {x: 29.5, y: 8}
+        - {x: 24.5, y: 15}
+        - {x: 11.5, y: 20}
+        - {x: -22.5, y: 20}
+        - {x: -29.5, y: 12}
+        - {x: -29.5, y: -1}
+        - {x: -28.5, y: -2}
+        - {x: -22.5, y: -2}
+        - {x: -29.5, y: -13}
+        - {x: -29.5, y: -20}
+        - {x: -14.5, y: -20}
+        - {x: -11.5, y: -17}
+        - {x: -9.5, y: -12}
+        - {x: -8.5, y: -19}
+    - name: ZeroX3_118
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 371
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -20}
+        - {x: 11, y: -20}
+        - {x: 28, y: -9}
+        - {x: 34, y: -5}
+        - {x: 34, y: 9}
+        - {x: 33, y: 13}
+        - {x: 25, y: 20}
+        - {x: -32, y: 20}
+        - {x: -34, y: 19}
+        - {x: -34, y: -1}
+        - {x: -33, y: -2}
+        - {x: -27, y: -2}
+        - {x: -34, y: -13}
+        - {x: -34, y: -20}
+        - {x: -19, y: -20}
+        - {x: -16, y: -17}
+        - {x: -14, y: -12}
+        - {x: -13, y: -19}
+    - name: ZeroX3_119
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 371
+        width: 76
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -20}
+        - {x: 9, y: -20}
+        - {x: 16, y: -19}
+        - {x: 38, y: -10}
+        - {x: 38, y: 14}
+        - {x: 36, y: 18}
+        - {x: 19, y: 20}
+        - {x: -30, y: 20}
+        - {x: -38, y: 13}
+        - {x: -38, y: -1}
+        - {x: -37, y: -2}
+        - {x: -31, y: -2}
+        - {x: -38, y: -13}
+        - {x: -38, y: -20}
+        - {x: -23, y: -20}
+        - {x: -20, y: -17}
+        - {x: -18, y: -12}
+        - {x: -17, y: -19}
+    - name: ZeroX3_120
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 371
+        width: 84
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -13}
+        - {x: 42, y: 20}
+        - {x: -40, y: 20}
+        - {x: -42, y: 13}
+        - {x: -42, y: -1}
+        - {x: -41, y: -2}
+        - {x: -35, y: -2}
+        - {x: -42, y: -13}
+        - {x: -42, y: -20}
+        - {x: -27, y: -20}
+        - {x: -24, y: -17}
+        - {x: -22, y: -20}
+        - {x: 21, y: -20}
+    - name: ZeroX3_121
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 314
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -20}
+        - {x: 22, y: -20}
+        - {x: 24, y: -16}
+        - {x: 24, y: 20}
+        - {x: -22, y: 20}
+        - {x: -24, y: 13}
+        - {x: -24, y: -1}
+        - {x: -23, y: -2}
+        - {x: -17, y: -2}
+        - {x: -24, y: -13}
+        - {x: -24, y: -20}
+        - {x: -9, y: -20}
+        - {x: -6, y: -17}
+        - {x: -4, y: -12}
+        - {x: -3, y: -19}
+      - - {x: 18, y: 15}
+        - {x: 19, y: 12}
+        - {x: 23, y: 11}
+        - {x: 24, y: 11}
+        - {x: 24, y: 18}
+        - {x: 20, y: 17}
+    - name: ZeroX3_122
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 346
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_123
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 324
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_124
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 324
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_125
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 322
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_126
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 321
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_127
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 319
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_128
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 320
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_129
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 314
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_130
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 320
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_131
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 314
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_132
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 260
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 22.5}
+        - {x: -11, y: 22.5}
+        - {x: -22, y: 20.5}
+        - {x: -24, y: 16.5}
+        - {x: -24, y: -7.5}
+        - {x: -23, y: -8.5}
+        - {x: -20, y: -7.5}
+        - {x: -16, y: -10.5}
+        - {x: -23, y: -19.5}
+        - {x: -23, y: -22.5}
+        - {x: 21, y: -22.5}
+        - {x: 24, y: -14.5}
+        - {x: 24, y: 17.5}
+    - name: ZeroX3_133
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 260
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: 5.5}
+        - {x: 10.5, y: 17.5}
+        - {x: -3.5, y: 22.5}
+        - {x: -6.5, y: 23.5}
+        - {x: -18.5, y: 23.5}
+        - {x: -21.5, y: 20.5}
+        - {x: -25.5, y: 7.5}
+        - {x: -26.5, y: -6.5}
+        - {x: -26.5, y: -23.5}
+        - {x: 12.5, y: -23.5}
+        - {x: 12.5, y: -21.5}
+        - {x: 26.5, y: -10.5}
+    - name: ZeroX3_134
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 260
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 19}
+        - {x: -32, y: -19}
+        - {x: 32, y: -19}
+        - {x: 32, y: 19}
+    - name: ZeroX3_135
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 260
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 19}
+        - {x: -31.5, y: 9}
+        - {x: -36.5, y: -12}
+        - {x: -36.5, y: -19}
+        - {x: 8.5, y: -19}
+        - {x: 36.5, y: -7}
+        - {x: 36.5, y: 11}
+        - {x: 32.5, y: 19}
+    - name: ZeroX3_136
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 260
+        width: 89
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 19}
+        - {x: 2.5, y: 16}
+        - {x: 3.5, y: 13}
+        - {x: -5.5, y: 19}
+        - {x: -32.5, y: 19}
+        - {x: -44.5, y: 3}
+        - {x: -44.5, y: -19}
+        - {x: 32.5, y: -19}
+        - {x: 44.5, y: -14}
+        - {x: 44.5, y: 17}
+        - {x: 43.5, y: 19}
+    - name: ZeroX3_137
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 257
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 19}
+        - {x: -12.5, y: 19}
+        - {x: -26.5, y: -4}
+        - {x: -26.5, y: -19}
+        - {x: 14.5, y: -19}
+        - {x: 19.5, y: -15}
+        - {x: 26.5, y: -6}
+        - {x: 26.5, y: 15}
+    - name: ZeroX3_138
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 230
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_139
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 228
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_140
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 227
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_141
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 225
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_142
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 226
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_143
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 220
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_144
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 226
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_145
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 220
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ZeroX3_146
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 167
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 34}
+        - {x: -31, y: 34}
+        - {x: -31, y: -15}
+        - {x: -28, y: -20}
+        - {x: -20, y: -20}
+        - {x: -22, y: -20}
+        - {x: -31, y: -30}
+        - {x: -31, y: -34}
+        - {x: 10, y: -34}
+        - {x: 31, y: -1}
+        - {x: 31, y: 18}
+        - {x: 25, y: 30}
+      - - {x: 27, y: -32}
+        - {x: 27, y: -34}
+        - {x: 31, y: -34}
+        - {x: 31, y: -29}
+        - {x: 30, y: -29}
+    - name: ZeroX3_147
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 167
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 22}
+        - {x: -19.5, y: 11}
+        - {x: -19.5, y: -22}
+        - {x: 19.5, y: -22}
+        - {x: 19.5, y: -16}
+        - {x: 8.5, y: 22}
+    - name: ZeroX3_148
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 167
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 21.5}
+        - {x: -18.5, y: -21.5}
+        - {x: 18.5, y: -21.5}
+        - {x: 18.5, y: -2.5}
+        - {x: 10.5, y: 21.5}
+    - name: ZeroX3_149
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 167
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 21.5}
+        - {x: -20.5, y: 5.5}
+        - {x: -20.5, y: -21.5}
+        - {x: 20.5, y: -21.5}
+        - {x: 20.5, y: -10.5}
+        - {x: 10.5, y: 21.5}
+    - name: ZeroX3_150
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 167
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 21.5}
+        - {x: -26, y: -2.5}
+        - {x: -21, y: -18.5}
+        - {x: -14, y: -21.5}
+        - {x: 26, y: -21.5}
+        - {x: 26, y: 16.5}
+        - {x: 17, y: 21.5}
+    - name: ZeroX3_151
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 167
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 22}
+        - {x: -24.5, y: 6}
+        - {x: -24.5, y: -9}
+        - {x: -14.5, y: -22}
+        - {x: 24.5, y: -22}
+        - {x: 24.5, y: 15}
+        - {x: 16.5, y: 22}
+    - name: ZeroX3_152
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 167
+        width: 80
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 26}
+        - {x: -40, y: 12}
+        - {x: -40, y: -26}
+        - {x: 40, y: -26}
+        - {x: 40, y: 18}
+        - {x: 21, y: 26}
+      - - {x: -40, y: 25}
+        - {x: -40, y: 15}
+        - {x: -39, y: 15}
+        - {x: -36, y: 16}
+        - {x: -36, y: 21}
+        - {x: -37, y: 25}
+    - name: ZeroX3_153
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 167
+        width: 80
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: -21}
+        - {x: 40, y: -21}
+        - {x: 40, y: 3}
+        - {x: 29, y: 21}
+        - {x: -34, y: 21}
+        - {x: -38, y: 20}
+        - {x: -40, y: 4}
+    - name: ZeroX3_154
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 118
+        width: 80
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: -17.5}
+        - {x: 40, y: -17.5}
+        - {x: 40, y: 2.5}
+        - {x: 28, y: 17.5}
+        - {x: -24, y: 17.5}
+        - {x: -30, y: 11.5}
+        - {x: -40, y: -10.5}
+    - name: ZeroX3_155
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 118
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 21.5}
+        - {x: -18.5, y: -21.5}
+        - {x: 18.5, y: -21.5}
+        - {x: 18.5, y: -2.5}
+        - {x: 10.5, y: 21.5}
+    - name: ZeroX3_156
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 118
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 22}
+        - {x: -19.5, y: 11}
+        - {x: -19.5, y: -22}
+        - {x: 19.5, y: -22}
+        - {x: 19.5, y: -16}
+        - {x: 8.5, y: 22}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

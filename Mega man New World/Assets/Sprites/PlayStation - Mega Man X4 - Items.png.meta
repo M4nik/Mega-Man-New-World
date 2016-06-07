@@ -1,0 +1,1473 @@
+fileFormatVersion: 2
+guid: 39319fe87abaa4449be61ff3f9ef7aee
+timeCreated: 1462892727
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayStation - Mega Man X4 - Items_0
+    21300002: PlayStation - Mega Man X4 - Items_1
+    21300004: PlayStation - Mega Man X4 - Items_2
+    21300006: PlayStation - Mega Man X4 - Items_3
+    21300008: PlayStation - Mega Man X4 - Items_4
+    21300010: PlayStation - Mega Man X4 - Items_5
+    21300012: PlayStation - Mega Man X4 - Items_6
+    21300014: PlayStation - Mega Man X4 - Items_7
+    21300016: PlayStation - Mega Man X4 - Items_8
+    21300018: PlayStation - Mega Man X4 - Items_9
+    21300020: PlayStation - Mega Man X4 - Items_10
+    21300022: PlayStation - Mega Man X4 - Items_11
+    21300024: PlayStation - Mega Man X4 - Items_12
+    21300026: PlayStation - Mega Man X4 - Items_13
+    21300028: PlayStation - Mega Man X4 - Items_14
+    21300030: PlayStation - Mega Man X4 - Items_15
+    21300032: PlayStation - Mega Man X4 - Items_16
+    21300034: PlayStation - Mega Man X4 - Items_17
+    21300036: PlayStation - Mega Man X4 - Items_18
+    21300038: PlayStation - Mega Man X4 - Items_19
+    21300040: PlayStation - Mega Man X4 - Items_20
+    21300042: PlayStation - Mega Man X4 - Items_21
+    21300044: PlayStation - Mega Man X4 - Items_22
+    21300046: PlayStation - Mega Man X4 - Items_23
+    21300048: PlayStation - Mega Man X4 - Items_24
+    21300050: PlayStation - Mega Man X4 - Items_25
+    21300052: PlayStation - Mega Man X4 - Items_26
+    21300054: PlayStation - Mega Man X4 - Items_27
+    21300056: PlayStation - Mega Man X4 - Items_28
+    21300058: PlayStation - Mega Man X4 - Items_29
+    21300060: PlayStation - Mega Man X4 - Items_30
+    21300062: PlayStation - Mega Man X4 - Items_31
+    21300064: PlayStation - Mega Man X4 - Items_32
+    21300066: PlayStation - Mega Man X4 - Items_33
+    21300068: PlayStation - Mega Man X4 - Items_34
+    21300070: PlayStation - Mega Man X4 - Items_35
+    21300072: PlayStation - Mega Man X4 - Items_36
+    21300074: PlayStation - Mega Man X4 - Items_37
+    21300076: PlayStation - Mega Man X4 - Items_38
+    21300078: PlayStation - Mega Man X4 - Items_39
+    21300080: PlayStation - Mega Man X4 - Items_40
+    21300082: PlayStation - Mega Man X4 - Items_41
+    21300084: PlayStation - Mega Man X4 - Items_42
+    21300086: PlayStation - Mega Man X4 - Items_43
+    21300088: PlayStation - Mega Man X4 - Items_44
+    21300090: PlayStation - Mega Man X4 - Items_45
+    21300092: PlayStation - Mega Man X4 - Items_46
+    21300094: PlayStation - Mega Man X4 - Items_47
+    21300096: PlayStation - Mega Man X4 - Items_48
+    21300098: PlayStation - Mega Man X4 - Items_49
+    21300100: PlayStation - Mega Man X4 - Items_50
+    21300102: PlayStation - Mega Man X4 - Items_51
+    21300104: PlayStation - Mega Man X4 - Items_52
+    21300106: PlayStation - Mega Man X4 - Items_53
+    21300108: PlayStation - Mega Man X4 - Items_54
+    21300110: PlayStation - Mega Man X4 - Items_55
+    21300112: PlayStation - Mega Man X4 - Items_56
+    21300114: PlayStation - Mega Man X4 - Items_57
+    21300116: PlayStation - Mega Man X4 - Items_58
+    21300118: PlayStation - Mega Man X4 - Items_59
+    21300120: PlayStation - Mega Man X4 - Items_60
+    21300122: PlayStation - Mega Man X4 - Items_61
+    21300124: PlayStation - Mega Man X4 - Items_62
+    21300126: PlayStation - Mega Man X4 - Items_63
+    21300128: PlayStation - Mega Man X4 - Items_64
+    21300130: PlayStation - Mega Man X4 - Items_65
+    21300132: PlayStation - Mega Man X4 - Items_66
+    21300134: PlayStation - Mega Man X4 - Items_67
+    21300136: PlayStation - Mega Man X4 - Items_68
+    21300138: PlayStation - Mega Man X4 - Items_69
+    21300140: PlayStation - Mega Man X4 - Items_70
+    21300142: PlayStation - Mega Man X4 - Items_71
+    21300144: PlayStation - Mega Man X4 - Items_72
+    21300146: PlayStation - Mega Man X4 - Items_73
+    21300148: PlayStation - Mega Man X4 - Items_74
+    21300150: PlayStation - Mega Man X4 - Items_75
+    21300152: PlayStation - Mega Man X4 - Items_76
+    21300154: PlayStation - Mega Man X4 - Items_77
+    21300156: PlayStation - Mega Man X4 - Items_78
+    21300158: PlayStation - Mega Man X4 - Items_79
+    21300160: PlayStation - Mega Man X4 - Items_80
+    21300162: PlayStation - Mega Man X4 - Items_81
+    21300164: PlayStation - Mega Man X4 - Items_82
+    21300166: PlayStation - Mega Man X4 - Items_83
+    21300168: PlayStation - Mega Man X4 - Items_84
+    21300170: PlayStation - Mega Man X4 - Items_85
+    21300172: PlayStation - Mega Man X4 - Items_86
+    21300174: PlayStation - Mega Man X4 - Items_87
+    21300176: PlayStation - Mega Man X4 - Items_88
+    21300178: PlayStation - Mega Man X4 - Items_89
+    21300180: PlayStation - Mega Man X4 - Items_90
+    21300182: PlayStation - Mega Man X4 - Items_91
+    21300184: PlayStation - Mega Man X4 - Items_92
+    21300186: PlayStation - Mega Man X4 - Items_93
+    21300188: PlayStation - Mega Man X4 - Items_94
+    21300190: PlayStation - Mega Man X4 - Items_95
+    21300192: PlayStation - Mega Man X4 - Items_96
+    21300194: PlayStation - Mega Man X4 - Items_97
+    21300196: PlayStation - Mega Man X4 - Items_98
+    21300198: PlayStation - Mega Man X4 - Items_99
+    21300200: PlayStation - Mega Man X4 - Items_100
+    21300202: PlayStation - Mega Man X4 - Items_101
+    21300204: PlayStation - Mega Man X4 - Items_102
+    21300206: PlayStation - Mega Man X4 - Items_103
+    21300208: PlayStation - Mega Man X4 - Items_104
+    21300210: PlayStation - Mega Man X4 - Items_105
+    21300212: PlayStation - Mega Man X4 - Items_106
+    21300214: PlayStation - Mega Man X4 - Items_107
+    21300216: PlayStation - Mega Man X4 - Items_108
+    21300218: PlayStation - Mega Man X4 - Items_109
+    21300220: PlayStation - Mega Man X4 - Items_110
+    21300222: PlayStation - Mega Man X4 - Items_111
+    21300224: PlayStation - Mega Man X4 - Items_112
+    21300226: PlayStation - Mega Man X4 - Items_113
+    21300228: PlayStation - Mega Man X4 - Items_114
+    21300230: PlayStation - Mega Man X4 - Items_115
+    21300232: PlayStation - Mega Man X4 - Items_116
+    21300234: PlayStation - Mega Man X4 - Items_117
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 8
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PlayStation - Mega Man X4 - Items_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 206
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 206
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 206
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_3
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 206
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 206
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 206
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 206
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_7
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 204
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 204
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 204
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_10
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 204
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_11
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 204
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_12
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 204
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_13
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 204
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_14
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 204
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_15
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 204
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_16
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 204
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 170
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 170
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 170
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 170
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_21
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 170
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_22
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 170
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_23
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 170
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_24
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 170
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_25
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 170
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_26
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 170
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_27
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 170
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_28
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 170
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 153
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_30
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 153
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_31
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 153
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_32
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 153
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_33
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 153
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 153
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_35
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 153
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_36
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 153
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_37
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 153
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_38
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 153
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_39
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 153
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_40
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 153
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_41
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 153
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 153
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_43
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 153
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_44
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 153
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_45
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 153
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_46
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 132
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_47
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 132
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_48
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 132
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_49
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 132
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_50
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 132
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_51
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 132
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_52
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 132
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 132
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_54
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 132
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_55
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 132
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_56
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 132
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_57
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 132
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_58
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 132
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_59
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 132
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_60
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 132
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_61
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 132
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_62
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 132
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_63
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 132
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_64
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 132
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_65
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 108
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_66
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 108
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_67
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 108
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_68
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 108
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_69
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_70
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_71
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 108
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_72
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 108
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_73
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 108
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_74
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 108
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_75
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 108
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_76
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 108
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_77
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 108
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 108
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_79
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 108
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_80
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_81
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_82
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_83
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 85
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_84
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 84
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_85
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 83
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_86
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 84
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_87
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 85
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_88
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 84
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_89
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 59
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_90
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 59
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_91
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 59
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_92
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 59
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_93
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 59
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_94
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 58
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_95
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 59
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_96
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 60
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_97
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 59
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_98
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 60
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_99
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 75
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_100
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 70
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_101
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 70
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_102
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 70
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_103
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 67
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_104
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 61
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_105
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 60
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_106
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 60
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_107
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 60
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_108
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 31
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_109
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 31
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_110
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 31
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_111
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 31
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_112
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 31
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_113
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 30
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_114
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 30
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_115
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 30
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_116
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 30
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayStation - Mega Man X4 - Items_117
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 30
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
